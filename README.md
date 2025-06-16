@@ -1,5 +1,3 @@
-<img src="banner/Recipe_Book_Banner.png" alt="Recipe Book Banner" width="100%" />
-
 # 🧑‍🍳 Recipe Book (Python Project)
 
 [![Run Code](https://img.shields.io/badge/Run-Code-blue?style=for-the-badge)](https://replit.com/)
