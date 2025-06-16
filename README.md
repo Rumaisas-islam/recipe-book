@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rumaisas-islam/recipe-book/main/banner/bn.png" alt="Recipe Book Banner" style="max-width: 100%;">
+</p>
+
 # 🧑‍🍳 Recipe Book (Python Project)
 
 [![Run Code](https://img.shields.io/badge/Run-Code-blue?style=for-the-badge)](https://replit.com/)
