@@ -1,4 +1,4 @@
-![Recipe Book Banner](banner/Recipe_Book_Banner.png)
+<img src="banner/Recipe_Book_Banner.png" alt="Recipe Book Banner" width="100%" />
 
 # 🧑‍🍳 Recipe Book (Python Project)
 
