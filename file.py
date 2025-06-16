@@ -139,9 +139,4 @@ while True:
     obj.list_all_titles()
   elif menu.lower()=="q":
     print("Thankyou for using Recipe Book.Goodbye!")
-    break
-
-
-
-
-    
+    break    
