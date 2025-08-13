@@ -69,7 +69,7 @@ These entries are saved in a consistent format using separators (`==============
 ## 📂 Sample File Format (`recipe.txt`)
 
 ```
-=====================
+
 Title:Grilled Sandwich
 Ingredients:Bread, Cheese, Butter
 Recipe:Grill the sandwich for 5 minutes.
